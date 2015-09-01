@@ -57,5 +57,31 @@ Using a for loop. I believe there is a forEach method one could use.
 
 ** After research
 
+I see now I only really addressed the array items portion of the question. I wasn't too sure about the object properties. I found a great Stack Overflow thread on this. It seems that Object.keys(theObject) creates an array of all the prperties. *Actually this is only true if hasOwnProperty returns true*
+I found, with the object (taken from the stack thread)
+{% highlight javascript %}
+var obj = {
+    name: "Simon",
+    age: "20",
+    clothing: {
+        style: "simple",
+        isDouche: false
+    }
+}
+{% endhighlight %}
+That the the 'for...in' worked well.
 
+{% highlight javascript %}
+for (property in obj) {
+  console.log(obj[property])
+}
+>> Simon
+>> 20
+>> Object {style: "simple", isDouche: false}
+
+{% endhighlight %}
+
+#####Resources
+Here is the [link](http://stackoverflow.com/questions/8312459/iterate-through-object-properties) 
+ 
 
