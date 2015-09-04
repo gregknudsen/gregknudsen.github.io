@@ -33,8 +33,8 @@ doctype tells the browser what type of document it is. I know that I have only e
 I was partially correct, in that I missed a few important details. doctype (which means 'Document Type Declaration') is a declaration, not an html tag. If an html page does not have a doctype at the top, you cannot use an html validator. Having this declaration insures the browser will use (or at least make a best effort to use) the latest version of html.
 
 #####Resources
-[link](http://stackoverflow.com/questions/7695044/what-does-doctype-html-do) 
- > I particularly like the seatbelt analogy - you won't know something is wrong until you need it. :)
+[[link]](http://stackoverflow.com/questions/7695044/what-does-doctype-html-do)
+I particularly like the seatbelt analogy - you won't know something is wrong until you need it. :)
 
 
  
@@ -65,7 +65,7 @@ var obj = {
     age: "20",
     clothing: {
         style: "simple",
-        isDouche: false
+        isCool: false
     }
 }
 {% endhighlight %}
@@ -77,7 +77,7 @@ for (property in obj) {
 }
 >> Simon
 >> 20
->> Object {style: "simple", isDouche: false}
+>> Object {style: "simple", isCool: false}
 
 {% endhighlight %}
 
