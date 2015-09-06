@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What I learned This Week"
+title:  "What I Learned This Week"
 date:   2015-08-31 20:30:43
 ---
 
