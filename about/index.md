@@ -5,8 +5,8 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2015-09-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
+  feature: city-panorama.jpg
+  credit: Wikipedia
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 

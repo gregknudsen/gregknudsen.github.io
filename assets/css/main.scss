@@ -11,6 +11,8 @@ sitemap: false
  *
 */
 
+$my-link-color: #BB4565;
+
 // Partials
 @import "variables";
 @import "grid";
@@ -27,9 +29,15 @@ sitemap: false
 @import "vendor/magnific-popup/magnific-popup";
 //@import "vendor/google/fonts";
 
+
 .article-wrap p>a {
     text-decoration: none;
-    color: #BB4565;
+    color: $my-link-color ;
+}
+
+
+.project-link {
+    color: $my-link-color;
 }
 
 .article-wrap p>a:hover {

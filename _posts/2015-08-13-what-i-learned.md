@@ -40,15 +40,9 @@ minify assets, optimize images, use ajax to 'preload' content
 I was actually pretty close on this. Where I would have gotten into trouble is if the interviewer had followed up on my third solution. I could not adequately describe _how_ to preload content. This is something I will look further into.
 
 ####Resources
-* [link](http://www.bizreport.com/2011/03/top-3-ways-to-decrease-page-load-times.html) 
- <!-- > * First, optimize, optimize, optimize. Check the types of images you are using on-site and ensure the file format is appropriate. 
- > * Second, minimize HTTP requests. Rather than forcing your site to request multiple files for images, content or ads, combine some pages.
- > * Finally, resize elements before they are uploaded into the HTML. -->
-* [link](http://www.raymondcamden.com/2015/04/10/front-end-interview-questions-part-5)
-<!--  > * Minimize images
- > * Minimize and combine JavaScript files
- > * Minimize, combine, and “prune” CSS files
- -->
+[Link](http://www.bizreport.com/2011/03/top-3-ways-to-decrease-page-load-times.html) - bizreport.com<br>
+[Link](http://www.raymondcamden.com/2015/04/10/front-end-interview-questions-part-5) - raymondcamden.com
+
 
  
   
@@ -71,7 +65,7 @@ var foo = 10 + '20'
 ### My Answer
 initial answer would be undefined, as you can't add a string to a number. Will brb after checking console...
 
-### Correct answer
+### After testing in the console
 {% highlight javascript %}
 > var foo = 10 + '20';
 > undefined
