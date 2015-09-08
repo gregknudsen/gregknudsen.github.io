@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 _site
+=======
+_site
+.sass-cache
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+node_modules
+_asset_bundler_cache
+>>>>>>> b5cab4a43ca82a4f6ba13a2553033abce440e99c
