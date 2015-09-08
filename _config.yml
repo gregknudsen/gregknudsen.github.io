@@ -1,0 +1,61 @@
+# Site wide configuration
+
+title:            Gregory Knudsen
+locale:           en_US
+url:
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Gregory Knudsen
+  avatar: greg-dev-bootcamp.jpg
+  bio: "Musician | Developer | Artist"
+  email: dev.artist15@gmail.com
+  disqus-shortname:
+  github: gregknudsen
+  linkedin: gregknudsen
+  codepen: dev_artist15
+  twitter: greg99799
+  facebook: greg.knudsen.73
+  google: 
+    plus: #104573205265400071914
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

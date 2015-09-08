@@ -1,0 +1,45 @@
+---
+sitemap: false
+---
+
+/*
+ *
+ *  Minimal Mistakes
+ *
+ *  Designer: Michael Rose
+ *  Twitter: http://twitter.com/mmistakes
+ *
+*/
+
+// Partials
+@import "variables";
+@import "grid";
+@import "mixins";
+@import "normalize";
+@import "site";
+@import "typography";
+@import "pygments";
+@import "coderay";
+@import "elements";
+@import "forms";
+@import "page";
+@import "vendor/font-awesome/font-awesome";
+@import "vendor/magnific-popup/magnific-popup";
+//@import "vendor/google/fonts";
+
+.article-wrap p>a {
+    text-decoration: none;
+    color: #BB4565;
+}
+
+.article-wrap p>a:hover {
+    color: #32568F;
+}
+
+.article-wrap p {
+    font-size: 1.15em;
+}
+
+.notice {
+    background-color: #F5F266;
+}
