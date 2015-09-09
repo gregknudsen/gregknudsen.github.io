@@ -31,8 +31,6 @@ document.onclick = function(e) {
 
 /*! Plugin options and other jQuery stuff */
 
-$(".site-name").hide();
-
 // FitVids options
 $(function() {
 	$("article").fitVids();
