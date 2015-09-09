@@ -7,7 +7,6 @@ comments: true
 image:
   feature: city-panorama.jpg
   credit: Wikipedia
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 

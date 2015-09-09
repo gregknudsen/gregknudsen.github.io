@@ -30,9 +30,13 @@ $my-link-color: #BB4565;
 //@import "vendor/google/fonts";
 
 
+html {
+  background-color: #f11;
+}
+
 .article-wrap p>a {
     text-decoration: none;
-    color: $my-link-color ;
+    color: green;
 }
 
 
@@ -51,3 +55,33 @@ $my-link-color: #BB4565;
 .notice {
     background-color: #F5F266;
 }
+
+.top-navigation li {
+  font-size: 1.5em;
+}
+
+.site-name {
+  font-size: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
