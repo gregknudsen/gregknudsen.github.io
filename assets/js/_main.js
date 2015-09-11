@@ -68,7 +68,7 @@ $(document).ready(function() {
 
 // Custom JS
 
-$("#former").fadeIn(3000);
+$("#former").hide().fadeIn(3000);
 
 
 
