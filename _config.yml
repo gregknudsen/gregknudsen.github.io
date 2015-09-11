@@ -23,6 +23,12 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
+# For future release
+# picture:
+#   source: "images/_fullsize"
+#   output: "generated"
+#   markup: "picture"  
+
 
 # Site owner
 owner:
