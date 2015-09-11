@@ -68,7 +68,7 @@ $(document).ready(function() {
 
 // Custom JS
 
-$("#former").delay( 3000 ).fadeIn("slow");
+$("#former").fadeIn(3000);
 
 
 
