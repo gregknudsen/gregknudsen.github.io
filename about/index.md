@@ -6,7 +6,6 @@ modified: 2015-09-08T20:53:07.573882-04:00
 comments: true
 image:
   feature: sarasotaSkyline.jpg
-  credit: Wikipedia
 ---
 
 
