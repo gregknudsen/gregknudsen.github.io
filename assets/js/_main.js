@@ -65,3 +65,32 @@ $(document).ready(function() {
     mainClass: 'mfp-fade'
   });
 });
+
+// Custom JS
+
+$("#former").delay( 3000 ).fadeIn("slow");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
