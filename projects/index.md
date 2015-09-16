@@ -31,6 +31,8 @@ I will definitely remember this.
 
 ---
 
+###More projects in the queue! I'll list them here when I get them done.
+
 #### To take a look at what else I've been working on, please visit my [GitHub](https://github.com/gregknudsen) page.
 
 Thanks for visiting!
