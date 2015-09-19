@@ -10,9 +10,7 @@ image:
   creditlink: https://unsplash.com/szolkin
 ---
 
-# Here are my projects!
-
-
+---
 
 >###[Brunzies](http://www.brunzies.com){:target="_blank"}{:class="project-link"}
 >This is a website for a bar located in Indiana, PA. I used HTML, CSS, jQuery and Twitter 
@@ -33,6 +31,5 @@ I will definitely remember this.
 
 ###More projects in the queue! I'll list them here when I get them done.
 
-#### To take a look at what else I've been working on, please visit my [GitHub](https://github.com/gregknudsen) page.
+####You can also take a look at what else I've been working on by visitng my [GitHub](https://github.com/gregknudsen) page.
 
-Thanks for visiting!
