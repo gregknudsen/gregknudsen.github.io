@@ -17,7 +17,7 @@ I had originally wanted to send my wife and those two kids up to PA for the summ
 
 > First, there was no way I could tell my wife that her going up north would have guaranteed me a job by the end of summer. If I knew for sure that would be the case, I think we both have been ok with it. Believe me, I'm still going to work my ass off this summer, but there's just no guarntee that I will find something.
 
-> Second, I would miss the two kids more than I think - quite possibly to a point where it would have hindered my ability to work. Last summer, my wife went up north for a month with the two kids for the same reason - to work hard to get a job. <i>I got a lot of stuff done (like [Brunzies](www.brunzies.com)), and I learned a lot as an intern for a local company. I just couldn't find a job.</i> But the kids are older now (obviously!), and they are just too much fun. I believe I underestimate the toll that would take on me.
+> Second, I would miss the two kids more than I think - quite possibly to a point where it would have hindered my ability to work. Last summer, my wife went up north for a month with the two kids for the same reason - to work hard to get a job. <i>I got a lot of stuff done (like [Brunzies](www.brunzies.com)), and I learned a lot as an intern for a local company. I just couldn't find a job.</i> But the kids are older now (obviously!), and they are just too much fun. I believe I underestimate the toll that would have taken on me.
 
 So, here I am - back again. I've been starting to code a little more since the holidays, but it's time to step it up and start learning!
 
