@@ -10,6 +10,9 @@ It's good to be back. It's been almost 7 months since my last post. I've decided
 
 Wrong. It <em>will</em> happen. Or, at least that's how I have to think. I also have to be realistic and know my limitations. I write this while my wife is watching some tv with two (of three) of our kids before bedtime. It would be nice to be there with them, but this is a good time to do some work before I get too tired. 
 
+### This Summer
+---
+
 I had originally wanted to send my wife and those two kids up to PA for the summer, so I could really focus on finding a job. That will no longer be the case because both of our boys will be going to summer school. This is a good thing for them, as it will give them both a much needed routine (they are both special needs FYI). In theory, the thought of being here in FL with only one boy sounded like a good idea. Sure, I would probably have gotten 15-20% more work/study done. There were, however, a few problems I don't think I could fully reconcile. 
 
 > First, there was no way I could tell my wife that her going up north would have guaranteed me a job by the end of summer. If I knew for sure that would be the case, I think we both have been ok with it. Believe me, I'm still going to work my ass off this summer, but there's just no guarntee that I will find something.
