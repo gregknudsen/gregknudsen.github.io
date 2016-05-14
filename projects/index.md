@@ -12,7 +12,7 @@ image:
 
 ---
 
->###[Brunzies](http://www.brunzies.com){:target="_blank"}{:class="project-link"}
+>### [Brunzies](http://www.brunzies.com){:target="_blank"}{:class="project-link"}
 >This is a website for a bar located in Indiana, PA. I used HTML, CSS, jQuery and Twitter 
 Bootstrap for layout. I also used git for source control. There are many todo's I have 
 for this site like adding more photos for the gallery as well as implementing Ajax.
@@ -29,7 +29,7 @@ I will definitely remember this.
 
 ---
 
-###More projects in the queue! I'll list them here when I get them done.
+### More projects in the queue! I'll list them here when I get them done.
 
-####You can also take a look at what else I've been working on by visitng my [GitHub](https://github.com/gregknudsen) page.
+#### You can also take a look at what else I've been working on by visitng my [GitHub](https://github.com/gregknudsen) page.
 
