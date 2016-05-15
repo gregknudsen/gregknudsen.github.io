@@ -14,7 +14,6 @@ I am a professional [musician](http://www.sarasotaorchestra.org/our-musicians/tr
 I'm a [family man](http://imgur.com/BAKjeyD){:target="_blank"}, <span id="former">former</span> scratch golfer, lover of all (well, most) things [Apple](http://www.apple.com){:target="_blank"}. I'm a [Walking Dead](http://www.amc.com/shows/the-walking-dead){:target="_blank"}, [Game of Thrones](http://www.hbo.com/game-of-thrones){:target="_blank"}, and [The Leftovers](http://www.hbo.com/the-leftovers){:target="_blank"} fanatic.<br><br>
 I attended [Dev Bootcamp](http://devbootcamp.com/locations/new-york/){:target="_blank"} - a truly amazing experience. As a profesional trumpet player, teaching young trumpet players has always been one of my favorite things to do. Eventually, I would love to be in a position to teach people to code, as I know what a struggle it can be. 
 In addition to teaching, I'm always very excited to learn new technologies. I'm in the process of learning Angular.js and plan on moving to React.js afterwards.<br><br>
-When I code (and I know it's going to be a long session), I like to put on the headphones and listen to [this](https://www.youtube.com/watch?v=5N8sUccRiTA).<br><br>
 I'm not sure what the future holds, but I am excited to see what happens and continue learning.<br><br>
 
 
