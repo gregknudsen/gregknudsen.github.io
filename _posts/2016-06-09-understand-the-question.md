@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understand the Question
-excerpt: "It's good to be back"
+excerpt: "I want more pretzels."
 tags: [blog, employment, algorithm, launchcode, interview]
 comments: true
 ---
