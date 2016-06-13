@@ -29,7 +29,8 @@ structure, in the long run, it would save much more time. With a few projects in
 I will definitely remember this.
 >I have recently 'Angularized' this site on a branch in the 
 Github [repo](https://github.com/gregkndusen/brunzies_bootstrap){:target="_blank"}. The site still 
-'works', but I still have some work to do mainly on how the site functions on a mobile device.
+'works', but I still have some work to do mainly on how the site functions on a mobile device before I 
+can launch it as an Angular site.
 
 ---
 
