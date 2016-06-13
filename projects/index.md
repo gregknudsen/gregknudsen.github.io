@@ -34,5 +34,7 @@ can launch it as an Angular site.
 
 ---
 
-#### And there are more projects in the queue! I have a few more websites I need to build, and I'm trying to learn as much as I can about ReactJS as well! You can take a look at what else I've been working on by visitng my [GitHub](https://github.com/gregknudsen){:target="_blank"}{:class="project-link"} page.
+#### And there are many more projects in the queue! I have a few more websites I need to build, and I'm trying to learn as much as I can about ReactJS as well! I've also been attending several local meetups in Sarasota and St. Petersburg, FL to try to learn and connect with as many people as I can. I'm very fortunate in that there is a great network of developers in the Tampa/St. Pete area, and I'm lucky to be surrounded by such smart people who are willing to help. 
+
+##### You can take a look at what else I've been working on by visitng my [GitHub](https://github.com/gregknudsen){:target="_blank"}{:class="project-link"} page.
 
