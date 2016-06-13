@@ -34,5 +34,5 @@ can launch it as an Angular site.
 
 ---
 
-#### And there are more projects in the queue! I have a few more websites I need to build, and I'm trying to learn as much as I can about ReactJS as well! You can take a look at what else I've been working on by visitng my [GitHub](https://github.com/gregknudsen) page.
+#### And there are more projects in the queue! I have a few more websites I need to build, and I'm trying to learn as much as I can about ReactJS as well! You can take a look at what else I've been working on by visitng my [GitHub](https://github.com/gregknudsen){:target="_blank"}{:class="project-link"} page.
 
