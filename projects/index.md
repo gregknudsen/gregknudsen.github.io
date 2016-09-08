@@ -17,19 +17,7 @@ image:
 Bootstrap for layout. I also used git for source control. There are many todo's I have 
 for this site like adding more photos for the gallery as well as implementing Ajax.
 
->Another thing I would say about this website is that, if I had it to do over again, 
-I would do just about everything differently. How that would primarily manifest itself 
-would be implementing a build structure. Right now, all of the html pages have the same 
-header/footer code, and this was always a pain/waste of time to make any changes (DRY much?). 
-Clearly, I need to break that code into partials or templates to apply to each page. 
-This is my first website created/deployed, so I went with what was comfortable for me, 
-and I would think that's fairly common for junior developers. What I have come to realize 
-is that while it may have taken me a bit more time to learn how to implement a build 
-structure, in the long run, it would save much more time. With a few projects in the works, 
-I will definitely remember this.
->I have recently 'Angularized' this site on a branch in the 
-Github [repo](https://github.com/gregkndusen/brunzies_bootstrap){:target="_blank"}. The site still 
-'works', but I still have some work to do mainly on how the site functions on a mobile device before I 
+>I have recently 'Angularized' this site on a branch in an attempt to make the codebase more DRY. You can find it in the Github [repo](https://github.com/gregkndusen/brunzies_bootstrap){:target="_blank"}. The site still 'works', but I still have some work to do mainly on how the site functions on a mobile device before I 
 can launch it as an Angular site.
 
 ---
