@@ -27,6 +27,10 @@ can launch it as an Angular site.
 
 >### [Be A Loser](http://www.bealoser.today){:target="_blank"}{:class="custom-link"}
 >This website was created to serve two main purposes:
+1. Direct visitors to the YouTube channel dedicated to informing viewers about the benefits of Intermittent Fasting.
+2. Provide & suggest more resources to aid in one's research.
+
+>Mobile first, and built using HTML5, CSS3, & PHP. Having never written a line of PHP prior to this project, it was a fun challenge to incorporate it into this project. I decided to use PHP because of the low cost convenience of separating out much of the code into ``'includes'.
 
 
 
