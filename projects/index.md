@@ -24,6 +24,8 @@ can launch it as an Angular site.
 
 ---
 
+![](http://gregknudsen.github.io/images/logo2.png){:class="brunzies-logo"}
+
 >### [Be A Loser](http://www.bealoser.today){:target="_blank"}{:class="custom-link"}
 >This website was created to serve two main purposes:
 1. Direct visitors to the YouTube channel dedicated to informing viewers about the benefits of Intermittent Fasting.
