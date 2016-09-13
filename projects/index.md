@@ -12,7 +12,7 @@ image:
 
 ---
 
-![]:(img/greg-dev-bootcamp.jpg)
+![](img/greg-dev-bootcamp.jpg)
 
 >### [Brunzies](http://www.brunzies.com){:target="_blank"}{:class="custom-link"}
 >This is a [mobile first](http://www.ibm.com/mobilefirst/){:target="_blank"} designed website for a bar located in Indiana, PA. I used HTML, CSS, jQuery and 
