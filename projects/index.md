@@ -24,7 +24,7 @@ can launch it as an Angular site.
 
 ---
 
-![](http://gregknudsen.github.io/images/logo2.png){:class="brunzies-logo"}
+![](http://gregknudsen.github.io/images/logo2.png){:class="loser-logo"}
 
 >### [Be A Loser](http://www.bealoser.today){:target="_blank"}{:class="custom-link"}
 >This website was created to serve two main purposes:
