@@ -12,7 +12,7 @@ image:
 
 ---
 
-[my-pic]
+![my-pic]
 [my-pic]: img/greg-dev-bootcamp.jpg
 
 >### [Brunzies](http://www.brunzies.com){:target="_blank"}{:class="custom-link"}
