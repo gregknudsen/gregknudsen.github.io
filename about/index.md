@@ -8,7 +8,7 @@ image:
   feature: sarasotaSkyline.jpg
 ---
 
-> I'm currently seeking a junior web developer position. Don't hesitate to reach out to me via [email](mailto:dev.artist15@gmail.com) or by visiting my [LinkedIn](https://www.linkedin.com/pub/gregory-knudsen/41/b33/64){:target="_blank"} profile. Thanks for visiting!
+> I'm currently a software developer for [Rewired Solutions](https://www.rewired.solutions) in Sarasota, FL. 
 
 I am a professional [musician](http://www.sarasotaorchestra.org/our-musicians/trumpet/greg-knudsen?referer=trombinoscope){:target="_blank"}, [developer](http://www.github.com/gregknudsen){:target="_blank"}, and artist living in Sarasota, FL. The art of creating has been my life for over twenty years. I will continue to create, but in a different way.<br><br>
 I'm a [family man](http://imgur.com/V0moQQZ){:target="_blank"}, <span id="former">former</span> scratch golfer, lover of all (well, most) things [Apple](http://www.apple.com){:target="_blank"}. I'm a new [Walking Dead](http://www.amc.com/shows/the-walking-dead) fanatic.<br><br>
