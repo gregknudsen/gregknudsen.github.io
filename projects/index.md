@@ -16,7 +16,7 @@ image:
 
 >### [Brunzies](http://www.brunzies.com){:target="_blank"}{:class="custom-link"}
 >This is a [mobile first](http://www.ibm.com/mobilefirst/){:target="_blank"} designed website for a bar located in Indiana, PA. I used HTML, CSS, jQuery and 
-Bootstrap for layout. I also used git for source control. There are many todo's I have 
+Bootstrap for layout. I also used git for version control. There are many todo's I have 
 for this site like adding more photos for the gallery as well as implementing Ajax.
 
 >I have recently 'Angularized' this site on a branch in an attempt to make the codebase more DRY. You can find it in the Github [repo](https://github.com/gregkndusen/brunzies_bootstrap){:target="_blank"}. The site still 'works', but I still have some work to do mainly on how the site functions on a mobile device before I 
