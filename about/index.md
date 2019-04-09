@@ -14,6 +14,3 @@ I'm a [family man](http://imgur.com/V0moQQZ){:target="_blank"}, <span id="former
 I attended [Dev Bootcamp](http://devbootcamp.com/locations/new-york/){:target="_blank"}. This was truly an amazing experience. As a profesional trumpet player, teaching young trumpet players has always been one of my favorite things to do. Eventually, I would love to be in a position to teach people to code, as I know what a struggle it can be. To help people learn would bring be great joy (as it has for years with the trumpet!).<br><br>
 When I code (and I know it's going to be a long session), I like to put on the headphones and listen to [this](https://www.youtube.com/watch?v=5N8sUccRiTA).<br><br>
 I'm not sure what the future holds, but I am excited to see what happens and continue learning.<br><br>
-
-
-
