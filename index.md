@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2015-09-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: pitt-landscape.jpg
+  feature: Pittsburgh_dawn_city_pano.jpg
 ---
 
 > > I'm currently a software developer for Duquesene Light Company in Pittsburgh, PA. Don't hesitate to reach out to me via [email](mailto:dev.artist15@gmail.com) or by visiting my [LinkedIn](https://www.linkedin.com/pub/gregory-knudsen/41/b33/64){:target="_blank"} and/or [Github](https://github.com/gregknudsen){:target="_blank"} profile. Thanks for visiting!
