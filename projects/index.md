@@ -14,10 +14,10 @@ image:
 
 ![](http://gregknudsen.github.io/images/brunzies-logo.jpg){:class="brunzies-logo"}
 
->### [Brunzies](http://www.brunzies.com){:target="_blank"}{:class="custom-link"}
+>### [Brunzies](https://www.brunzies.com){:target="_blank"}{:class="custom-link"}
 >This is a [mobile first](http://www.ibm.com/mobilefirst/){:target="_blank"} designed website for a bar located in Indiana, PA. I used Gatsby, HTML, CSS, jQuery and Bootstrap for layout.
 
->The site has been recently updated to use GatsbyJS - a static site generator that runs on React and uses GraphQL. You can find it in the Github [repo](https://github.com/gregkndusen/brunzies_bootstrap){:target="_blank"}. Implementing Gatsby not only makes the site run __a lot__ faster, it was also great to be creating a web page using React again. I'm also very much interested in learning a lot more about GraphQL in the hopes that I can start to incrementally start to use in my current position at Duquesne Light.
+>The site has been recently updated to use GatsbyJS - a static site generator that runs on React and uses GraphQL. You can find it in the Github [repo](https://github.com/gregkndusen/gatsby-brunzies){:target="_blank"}. Implementing Gatsby not only makes the site run __a lot__ faster, it was also great to be creating a web page using React again. I'm also very much interested in learning a lot more about GraphQL in the hopes that I can start to incrementally start to use in my current position at Duquesne Light.
 
 ---
 
