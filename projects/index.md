@@ -15,12 +15,9 @@ image:
 ![](http://gregknudsen.github.io/images/brunzies-logo.jpg){:class="brunzies-logo"}
 
 >### [Brunzies](http://www.brunzies.com){:target="_blank"}{:class="custom-link"}
->This is a [mobile first](http://www.ibm.com/mobilefirst/){:target="_blank"} designed website for a bar located in Indiana, PA. I used HTML, CSS, jQuery and 
-Bootstrap for layout. I also used git for version control. There are many todo's I have 
-for this site like adding more photos for the gallery as well as implementing Ajax.
+>This is a [mobile first](http://www.ibm.com/mobilefirst/){:target="_blank"} designed website for a bar located in Indiana, PA. I used Gatsby, HTML, CSS, jQuery and Bootstrap for layout.
 
->I have recently 'Angularized' this site on a branch in an attempt to make the codebase more DRY. You can find it in the Github [repo](https://github.com/gregkndusen/brunzies_bootstrap){:target="_blank"}. The site still 'works', but I still have some work to do mainly on how the site functions on a mobile device before I 
-can launch it as an Angular site.
+>The site has been recently updated to use GatsbyJS - a static site generator that runs on React and uses GraphQL. You can find it in the Github [repo](https://github.com/gregkndusen/brunzies_bootstrap){:target="_blank"}. Implementing Gatsby not only makes the site run __a lot__ faster, it was also great to be creating a web page using React again. I'm also very much interested in learning a lot more about GraphQL in the hopes that I can start to incrementally start to use in my current position at Duquesne Light.
 
 ---
 
