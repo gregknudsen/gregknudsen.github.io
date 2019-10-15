@@ -8,7 +8,7 @@ image:
   feature: Pittsburgh_dawn_city_pano.jpg
 ---
 
-> > I'm currently a programmer/analyst for Duquesene Light Company in Pittsburgh, PA. I spend the majority of my time in ASP.Net and Angular. Don't hesitate to reach out to me via [email](mailto:dev.artist15@gmail.com) or by visiting my [LinkedIn](https://www.linkedin.com/pub/gregory-knudsen/41/b33/64){:target="_blank"} and/or [Github](https://github.com/gregknudsen){:target="_blank"} profile. Thanks for visiting!
+> > I'm currently a programmer/analyst for Duquesene Light Company in Pittsburgh, PA. I spend the majority of my time in ASP.Net and Angular. Don't hesitate to reach out to me via [email](mailto:dev.artist15@gmail.com) or by visiting my [LinkedIn](https://www.linkedin.com/pub/gregory-knudsen/41/b33/64){:target="_blank"} and/or [Github](https://github.com/gregknudsen){:target="_blank"} profile. And [here](https://resume.creddle.io/resume/c8eyer3gy37){:target="_blank} is my resume'. Thanks for visiting!
 
 I am a former professional orchestral trumpet player turned working [developer](http://www.github.com/gregknudsen){:target="_blank"} living in Indiana, PA and working in Pittsburgh. The art of creating has been my life for over twenty years. I will continue to create, but in a different way.
 
