@@ -8,7 +8,7 @@ image:
   feature: Pittsburgh_dawn_city_pano.jpg
 ---
 
-> > I'm currently a software developer for Nexient, an NTTData Company. I spend the majority of my time in ASP.Net and Angular. Don't hesitate to reach out to me via [email](mailto:dev.artist15@gmail.com) or by visiting my [LinkedIn](https://www.linkedin.com/pub/gregory-knudsen/41/b33/64){:target="_blank"} and/or [Github](https://github.com/gregknudsen){:target="_blank"} profile. And [here](https://resume.creddle.io/resume/c8eyer3gy37){:target="_blank} is my resume'. Thanks for visiting!
+> > I'm currently a software developer for Nexient, an NTTData Company. I spend the majority of my time on the Front End of the stack, working with Angular, React as well as recently spending a lot of time with VueJS. Don't hesitate to reach out to me via [email](mailto:dev.artist15@gmail.com) or by visiting my [LinkedIn](https://www.linkedin.com/pub/gregory-knudsen/41/b33/64){:target="_blank"} and/or [Github](https://github.com/gregknudsen){:target="_blank"} profile. And [here](https://resume.creddle.io/resume/c8eyer3gy37){:target="_blank} is my resume'. Thanks for visiting!
 
 I am a former professional orchestral trumpet player turned [web developer](http://www.github.com/gregknudsen){:target="_blank"} living in Indiana, PA. The art of creating has been my life for over twenty years. I will continue to create, but in a different way.
 
